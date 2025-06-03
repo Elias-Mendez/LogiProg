@@ -1,0 +1,26 @@
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de editor/IDE
+.vscode/
+.idea/
+*.swp
+*~
+
+# Archivos de compilación (si usas C, C++, etc.)
+*.o
+*.obj
+*.exe
+*.out
+
+# Python (si incluyes scripts .py)
+__pycache__/
+*.pyc
+
+# Prolog (dependiendo del intérprete, p. ej. SWI-Prolog)
+*.qlf
+*.pl~ 
+
+# Otros binarios o logs
+*.log
